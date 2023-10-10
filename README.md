@@ -24,6 +24,9 @@ Tekan tombol "Generate Password" untuk menghasilkan kata sandi yang kuat dan ama
 Salin kata sandi yang dihasilkan dan simpan dengan aman. Gunakan kata sandi ini untuk mengamankan akun online Anda.
 Dengan Password Generator using IBM Verify API, Anda dapat dengan mudah menciptakan kata sandi yang kuat untuk semua akun online Anda, meningkatkan keamanan digital Anda, dan merasa lebih aman terhadap potensi ancaman keamanan. Pastikan untuk selalu menjaga kata sandi Anda dengan aman, tidak membagikannya dengan orang lain, dan menggantinya secara berkala untuk menjaga keamanan akun Anda.
 
+# DEMO
+Ini adalah repositori demo untuk proyek saya yang menampilkan kemampuan Password Generator kami. Dalam demo ini, saya menunjukkan bagaimana alat saya dapat menghasilkan kata sandi yang kuat dan aman dengan panjang dan kompleksitas yang dapat disesuaikan sesuai dengan kebutuhan Anda.
+
 ![image](https://github.com/adyanamul/Password-Generator-using-IBM-Verify-API/assets/144979433/39bd740d-402d-4ef1-a8a9-3aa071cd127c)
 
 ![image](https://github.com/adyanamul/Password-Generator-using-IBM-Verify-API/assets/144979433/17811905-a012-47fc-9810-a9e65a963370)
